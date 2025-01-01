@@ -1,0 +1,51 @@
+voter_id,name,constituency,hasVoted
+ABC123,Mani Krishna,Banjara Hills,true
+ABC456,Yogi Sasank,Banjara Hills,true
+ABC789,Rana,Banjara Hills,true
+ABC234,Bharath,Banjara Hills,false
+DEF123,Veda Sree,Jubliee Hills,true
+DEF456,Rama Krishna,Jubliee Hills,true
+DEF789,Arjun,Jubliee Hills,true
+DEF234,Ranbir,Jubliee Hills,false
+GHI123,Divya Narayan,Bachupally,false
+GHI456,Kalyan,Bachupally,false
+GHI789,Kalyan,Bachupally,false
+JKL123,Surya Vamsi,Lakdi-ka-Pool,false
+JKL456,Romaan,Lakdi-ka-Pool,false
+JKL789,Prasanth,Lakdi-ka-Pool,false
+JKL234,Aishwarya,Lakdi-ka-Pool,false
+JKL567,Henry,Lakdi-ka-Pool,false
+MNO123,Deepak krishna,Khairathabad,false
+MNO456,Akul,Khairathabad,false
+MNO789,Monisha,Khairathabad,false
+MNO123,Vishnu,Secunderabad,false
+MNO456,Vishnu,Secunderabad,false
+ABC567,Krishna,Banjara Hills,false
+ABC890,Sasank,Banjara Hills,false
+ABC345,Rana D,Banjara Hills,false
+ABC678,Bharath CH,Banjara Hills,false
+DEF567,Veda,Jubliee Hills,false
+DEF890,Rama,Jubliee Hills,false
+DEF345,Arjun A,Jubliee Hills,false
+DEF678,Ranbir K,Jubliee Hills,false
+GHI234,Divya,Bachupally,false
+GHI567,Kalyan K,Bachupally,false
+GHI890,Kalyan Babu,Bachupally,false
+JKL890,Surya,Lakdi-ka-Pool,false
+JKL345,Romaan Khaja,Lakdi-ka-Pool,false
+JKL678,Prasanth K,Lakdi-ka-Pool,false
+JKL901,Aishwarya Rai,Lakdi-ka-Pool,false
+JKL011,Henry L,Lakdi-ka-Pool,false
+MNO999,Deepak,Khairathabad,false
+MNO998,Akul S,Khairathabad,false
+MNO997,Monisha K,Khairathabad,false
+MNO996,Maneesh,Secunderabad,false
+MNO995,Rinku,Secunderabad,false
+ABC990,Latha,Banjara Hills,false
+ABC945,Swapna,Banjara Hills,false
+ABC978,Suresh,Banjara Hills,false
+DEF967,Siva,Jubliee Hills,false
+DEF990,Prasanna,Jubliee Hills,false
+DEF945,Sharath,Jubliee Hills,false
+DEF978,Sanvika,Jubliee Hills,false
+

@@ -1,0 +1,19 @@
+constituency,candidate,party,education,voteCount,ElectionId
+Banjara Hills,Abdul,INC,AeroSpace Engineering,0,ECB123
+Banjara Hills,Atal,BJP,Btech,0,ECB123
+Banjara Hills,Narender,PP,Btech,0,ECB123
+Jubliee Hills,Sanjay,INC,Mtech,0,ECJ123
+Jubliee Hills,Ramaswamy,BJP,MS,0,ECJ123
+Jubliee Hills,Trump,PP,PG,0,ECJ123
+Bachupally,Varun,INC,Mtech,0,ECB456
+Bachupally,Ram,BJP,MS,0,ECB456
+Bachupally,Krishna,PP,PG,0,ECB456
+Lakdi-ka-Pool,Neha,INC,PG,0,ECL123
+Lakdi-ka-Pool,Priya,BJP,MS,0,ECL123
+Lakdi-ka-Pool,Abdul K,PP,MS,0,ECL123
+Khairathabad,Ram K,INC,Btech,0,ECK123
+Khairathabad,Vikram,BJP,PG,0,ECK123
+Khairathabad,Narender M,PP,Btech,0,ECK123
+Secunderabad,Varun T,INC,PG,0,ECS123
+Secunderabad,Neha S,BJP,AeroSpace Engineering,0,ECS123
+Secunderabad,Amith,PP,AeroSpace Engineering,0,ECS123
